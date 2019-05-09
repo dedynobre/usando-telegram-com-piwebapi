@@ -41,4 +41,4 @@ do Node-Red.
 
 ## Help
 
-Caso precisem te ajuda ou tenham alguma sugestão, deixe seu comentário [Aqui](https://github.com/dedynobre/usando-telegram-com-piwebapi/issues).
+Caso precisem de ajuda ou tenham alguma sugestão, deixe seu comentário [Aqui](https://github.com/dedynobre/usando-telegram-com-piwebapi/issues).
